@@ -2407,7 +2407,8 @@ video::-webkit-media-controls-start-playback-button {
     font-size: 30px;
     color: #222;
     text-transform: uppercase;
-    white-space: nowrap
+    white-space: nowrap;
+    text-align: center
 }
 
 .box-popup .flex .box .pop .container .text {
@@ -2502,9 +2503,9 @@ video::-webkit-media-controls-start-playback-button {
 }
 
 .box-popup.custom .cont {
-    padding: 40px;
+    padding: 169px;
     position: relative;
-    text-align: left
+    text-align: center
 }
 
 .box-popup.custom .cont .title {
@@ -2541,7 +2542,7 @@ video::-webkit-media-controls-start-playback-button {
     padding: 0 20px;
     background-color: #feaf11;
     margin-right: 0;
-    max-width: 250px;
+    max-width: 312px;
     cursor: pointer
 }
 
